@@ -13,7 +13,6 @@ Este proyecto se enfoca en la fase crítica de construcción de un equipo de cib
 Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas del SOC:
 
 
-
 !\[Evaluación de Perfil de Seguridad](imagenes/foto1.png)
 
 
@@ -85,4 +84,5 @@ Este ejercicio demuestra la importancia de alinear la arquitectura técnica con 
 ---
 
 \*\*Proyecto completado exitosamente como parte de la Certificación Profesional de Analista de Ciberseguridad de IBM.\*\*
+
 
