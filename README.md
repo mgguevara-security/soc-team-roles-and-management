@@ -19,6 +19,7 @@ Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas d
 
 \* \*\*Ingeniería de Seguridad:\*\* Sofia Rodriguez (Diseño de redes seguras y protocolos).
 
+
 !\[Evaluación de Perfil de Seguridad](imagenes/foto6.png)
 
 !\[Evaluación de Perfil de Seguridad](imagenes/foto7.png)
@@ -29,6 +30,7 @@ Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas d
 
 \* \*\*Gestión de Vulnerabilidades:\*\* Aryan Sharma (Evaluación y resolución de brechas).
 
+
 !\[Evaluación de Perfil de Seguridad](imagenes/foto4.png)
 
 !\[Evaluación de Perfil de Seguridad](imagenes/foto5.png)
@@ -36,6 +38,7 @@ Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas d
 
 
 \* \*\*Respuesta a Incidentes (L2):\*\* Hayley Johnson (Respuesta colaborativa en tiempo real).
+
 
 !\[Evaluación de Perfil de Seguridad](imagenes/foto2.png)
 
@@ -45,6 +48,7 @@ Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas d
 
 \* \*\*Analista de Triage (L1):\*\* Dmitri Ivanov (Identificación rápida y atención al detalle).
 
+
 !\[Evaluación de Perfil de Seguridad](imagenes/foto12.png)
 
 !\[Evaluación de Perfil de Seguridad](imagenes/foto13.png)
@@ -52,6 +56,7 @@ Se seleccionaron los siguientes perfiles para cubrir las capacidades críticas d
 
 
 \* \*\*Gestión de Crisis y Comunicación:\*\* Nathan Peterson (Enlace de RR. PP. y concienciación).
+
 
 !\[Evaluación de Perfil de Seguridad](imagenes/foto9.png)
 
@@ -84,5 +89,6 @@ Este ejercicio demuestra la importancia de alinear la arquitectura técnica con 
 ---
 
 \*\*Proyecto completado exitosamente como parte de la Certificación Profesional de Analista de Ciberseguridad de IBM.\*\*
+
 
 
